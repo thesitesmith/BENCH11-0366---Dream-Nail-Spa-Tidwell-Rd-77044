@@ -28,7 +28,7 @@ export default function Hero() {
       <div className="absolute inset-0 bg-black/55" />
       <div className="relative z-10 h-full flex items-center">
         <div className="max-w-3xl px-5 md:px-10">
-          <h1 className="font-heading font-medium text-white text-5xl sm:text-6xl md:text-7xl leading-none tracking-tight [text-wrap:balance]">
+          <h1 className="font-heading font-medium text-brand-primary text-5xl sm:text-6xl md:text-7xl leading-none tracking-tight [text-wrap:balance]">
             Nails done the way you asked, every visit
           </h1>
           <p className="mt-6 text-white/90 text-lg md:text-xl max-w-xl leading-relaxed">
