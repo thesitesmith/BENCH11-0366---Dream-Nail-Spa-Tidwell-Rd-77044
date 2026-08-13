@@ -65,7 +65,7 @@ export default function Services() {
         <div className="mt-10">
           <a
             href="tel:+12818354144"
-            className="text-brand-accent underline decoration-2 underline-offset-4 font-semibold"
+            className="text-brand-primary underline decoration-2 underline-offset-4 font-semibold"
           >
             <span className="sr-only">Call Dream Nail Spa</span>
           </a>
