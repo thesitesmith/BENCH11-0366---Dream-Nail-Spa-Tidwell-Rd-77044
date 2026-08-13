@@ -37,7 +37,7 @@ export default function Hero() {
           <div className="mt-8">
             <a
               href="tel:+12818354144"
-              className="inline-block bg-brand-accent text-white px-8 py-4 rounded-full text-base font-semibold hover:bg-brand-accent/90 transition-colors"
+              className="inline-block bg-brand-accent text-brand-primary px-8 py-4 rounded-full text-base font-semibold hover:bg-brand-accent/90 transition-colors"
             >
               Call Us
             </a>
